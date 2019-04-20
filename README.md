@@ -1,4 +1,4 @@
-# Snappy
+# Boilerplate
 
 ### Scripts
 
